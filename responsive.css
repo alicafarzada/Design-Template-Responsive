@@ -1,0 +1,210 @@
+@media(max-width:1200px){
+    header{
+        height: 400px;
+    }
+    .card{
+        width: 300px;
+    }
+   .card  .img{
+        height: 217px;
+    }
+   
+   .all2{
+    height: auto;
+   }
+   .sect3{
+    height: auto;
+   }
+    .als1{
+        height: auto;
+    }
+    .als3{
+   width: 50%;
+        height: auto;
+    }
+    .form input{
+        width: 100%;
+    }
+    .textarea textarea{
+        width: 100%;
+    }
+    .textarea button{
+        width: 100%;
+    }
+    .als2{
+        width: 50%;
+        height: auto;
+    }
+   
+}
+@media(max-width:992px){
+    .text{
+        width: 75%;
+    }
+    .card{
+        width: 350px;
+    }
+    .card .img{
+        height: 257px;
+    }
+    .sect3{
+        height: auto;
+    }
+  .als{
+    flex-wrap:wrap;
+    height: auto;
+    justify-content: space-evenly;
+    
+  }
+  .als1{
+   margin: 10px;
+  }
+  .sect3{
+    height: auto;
+  }
+  .all2{
+    width: 80%;
+    height: auto;
+
+  }
+  .form{
+    flex-wrap: wrap;
+  }
+  .form1 input{
+    width: 140px;
+    height: 47px;
+  }
+  .form2 input{
+    width: 140px;
+    height: 47px;
+  }
+  .tarea textarea{
+    width: 310px;
+    height: 124px;
+  }
+  .textarea button{
+    width: 310px;
+    height: 60px;
+  }
+  .all2{
+    height: auto;
+   }
+   .sect3{
+    height: auto;
+   }
+    .als1{
+        height: auto;
+    }
+    .als3{
+   width: 50%;
+        height: auto;
+    }
+    .form input{
+        width: 100%;
+    }
+    .textarea textarea{
+        width: 100%;
+    }
+    .textarea button{
+        width: 100%;
+    }
+    .als2{
+        width: 50%;
+        height: auto;
+    }
+    .icon11 {
+     width: 50%;
+     height: auto;
+    
+    }
+    .icon11 i{
+        margin: 8px;
+    }
+
+
+}
+@media(max-width:768px){
+    .card{
+        width: 540px;
+    }
+   .card  .img{
+        height: 445px;
+    }
+    .txt h2{
+        width: 90%;
+    }
+    .all2{
+        height: auto;
+        flex-wrap: wrap;
+    }
+    .als2{
+        width: 100%;
+        margin: auto;
+    }
+    .als3{
+width: 100%;
+margin: auto;
+    }
+
+}
+@media(max-width:576px){
+    .card{
+        width: 340px;
+    }
+    .card .img{
+        height: 297px;
+    }
+    .txt h2{
+        font-size: 36px;
+    width: 65%;
+    }
+    .icon11 i {
+        width: 20%;
+        height: auto;
+        font-size: 30px;
+      margin-left: 10px;
+       
+       }
+   
+}
+@media(max-width:376px){
+    .card{
+        width: 95%;
+    }
+    .als2{
+        width: 100%;
+    }
+    .als2 h2{
+        font-size: 25px;
+    }
+    .als2 h6{
+        font-size: 16px;
+    }
+    .als2 p{
+        font-size: 14px;
+    }
+    .icon11{
+        width: 55%;
+        
+    }
+    .icon11 i{
+        margin: 5px;
+        font-size: 20px;
+    }
+    .sect3{
+        height: auto;
+    }
+    .all2{
+        height: auto;
+    }
+    .textarea button{
+        height: auto;
+    }
+    .foot{
+        width: 60%;
+      
+    }
+    .txt h2{width: 70%;
+
+    }
+}
